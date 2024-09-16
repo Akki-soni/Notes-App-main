@@ -31,7 +31,7 @@ Check out the live demo [Click Here]().
 To get started with this project, simply clone the repository or download the files and open the `index.html` file in your browser.
 
 ```bash
-git clone
+git clone https://github.com/Akki-soni/Notes-App-main.git
 
 ```
 
