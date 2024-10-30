@@ -32,22 +32,37 @@
 - **CSS**: Styling and layout of the app.
 - **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
 
-## How to Use
+## 🚀 How to Use
 
 - **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
 - **View Notes**: The list of notes is displayed below the input fields.
 - **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
 - **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
 
-## Project Setup
+## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Stopwatch.git>
-cd stopwatch
+git clone <https://github.com/Akki-soni/Notes-App-main.git>
+cd Notes App
 open index.html
 ```
+
+## 🚀 Project Structure
+
+```
+├── index.html  # The main HTML file
+├── style.css   # The CSS file for styling
+└── script.js  # The JavaScript file for functionality
+```
+
+## 🚀 Future Improvements
+
+- ***Add a search functionality to filter through notes.***
+- ***Implement categories or tags for notes organization.***
+- ***Sync notes with a backend server for cross-device access.***
+
 
 ## 🌟 Screenshots
 
@@ -85,46 +100,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 Thank you for exploring the StopWatch! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 </div>
-
-
-
-
-
-
-
-
-
-
-## Getting Started
-
-To get started with this project, simply clone the repository or download the files and open the `index.html` file in your browser.
-
-```bash
-git clone https://github.com/Akki-soni/Notes-App-main.git
-
-```
-
-## Project Structure
-
-```
-├── index.html  # The main HTML file
-├── style.css   # The CSS file for styling
-└── script.js  # The JavaScript file for functionality
-```
-
-## Future Improvements
-
-- Add a search functionality to filter through notes.
-- Implement categories or tags for notes organization.
-- Sync notes with a backend server for cross-device access.
-
-## Author
-
-Akash Chandra Verma \
-LinkedIn: https://www.linkedin.com/in/akashchandraverma/
-
-## Thank You
-
-Thank you for exploring the Notes App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
-
----
