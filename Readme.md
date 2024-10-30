@@ -66,7 +66,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![StopWatch Screenshot]()
+![StopWatch Screenshot](/images/NA_Screenshot.png)
 
 ## 🔗 Live Demo
 
