@@ -28,16 +28,16 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML**: For structuring the stopwatch layout.
-- **CSS**: For styling the stopwatch and making it visually appealing.
-- **JavaScript**: For handling the stopwatch logic and time calculations.
+- **HTML**: Markup structure for the app.
+- **CSS**: Styling and layout of the app.
+- **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
 
 ## How to Use
 
-- **_Click the "Start" button to begin the stopwatch._**
-- **_Click the "Pause" button to pause the time._**
-- **_Click the "Resume" button to continue the time from where it was paused._**
-- **_Click the "Reset" button to clear the time and reset the stopwatch to zero._**
+- **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
+- **View Notes**: The list of notes is displayed below the input fields.
+- **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
+- **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
 
 ## Project Setup
 
@@ -94,20 +94,6 @@ Thank you for exploring the StopWatch! Your feedback is valuable. If you have an
 
 
 
-
-
-## Technologies Used
-
-- **HTML**: Markup structure for the app.
-- **CSS**: Styling and layout of the app.
-- **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
-
-## How to Use
-
-1. **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
-2. **View Notes**: The list of notes is displayed below the input fields.
-3. **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
-4. **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
 
 ## Getting Started
 
